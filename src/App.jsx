@@ -1,6 +1,6 @@
 import React from 'react';
 import './App.css';
-import LoveCard from './components/lovecard';
+import LoveCard from '../src/components/LoveCard';
 
 function App() {
   return (
